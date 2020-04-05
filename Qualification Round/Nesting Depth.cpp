@@ -1,6 +1,5 @@
 /*
- * 	How to be brave
- * 	How can I love when I am afraid to fall...
+  Ashutosh Singh
 */
 #include<bits/stdc++.h>
 #include <ext/pb_ds/assoc_container.hpp>
